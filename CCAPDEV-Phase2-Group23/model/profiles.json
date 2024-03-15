@@ -1,0 +1,23 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@tastetalks.com",
+        "password": "password"
+    },{
+        "username": "alice",
+        "email": "alice@example.com",
+        "password": "password123"
+    },{
+        "username": "bob",
+        "email": "bob@example.com",
+        "password": "qwerty789"
+    },{
+        "username": "charlie",
+        "email": "charlie@example.com",
+        "password": "letmein456"
+    },{
+        "username": "eve",
+        "email": "eve@example.com",
+        "password": "password12345"
+    }
+]
